@@ -6,6 +6,7 @@
 - Some Hexadecimal and Simple Low-Level Editing Experience. (Since this guide Uses Binary, Hex, & Decimal).
 
 # Notice:
+- Save-File Location is Located Here: **"C:\Users\USERNAME\Documents\Avalanche Studios\GenerationZero\Saves\YOURID\savegame"**.
 - Always Make sure you backup your Save-File before continuing with this guide!
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 
@@ -21,6 +22,7 @@
 
 - I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
 
+- You Can Now Overwrite 
 
 
 
