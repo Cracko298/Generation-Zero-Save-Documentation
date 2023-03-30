@@ -42,10 +42,11 @@
 
 - Click "Seach" and then Click "GoTo..." then type in Offset "3A0". A New byte should have been Highlighted at Offset "3A0". ([View Image](https://user-images.githubusercontent.com/78656905/228987409-1dd7c6e6-8e8f-47fc-a8b1-1b27ca9ff201.png)).
 
+![image](https://user-images.githubusercontent.com/78656905/228988036-e5460068-36cb-4353-bbf0-2fb275282f9b.png)
 
 
 
-- After Highlighting the Byte at Offset "3A0" Look at The Window To Your Right (Should be Called **Data Inspector** or Something Like That). ([View Image](https://user-images.githubusercontent.com/78656905/228984773-9157f3d9-aa77-41b5-b9e7-e7eedca28049.png)).
+- After Highlighting the Byte at Offset "3A0" Look at The Window To Your Right (Should be Called **Data Inspector** or Something Like That). ([View Image](https://user-images.githubusercontent.com/78656905/228988036-e5460068-36cb-4353-bbf0-2fb275282f9b.png)).
 
 - You Want to Double Click the Value to The Right of Int8 in the "Data Inspector" Window. That Can any Number In-between **0 and 31**. ([View Image](https://user-images.githubusercontent.com/78656905/228985277-ff36e9f1-01ea-42c6-937c-5ac0fef1587d.png)).
 
