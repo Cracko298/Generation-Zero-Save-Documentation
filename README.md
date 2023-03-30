@@ -12,6 +12,8 @@
 
 
 # Editing Player Level:
+<details>
+  <summary>Click For "Pvg 90" ID's.</summary>
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
 
 - Click "Seach" and then Click "GoTo..." then type in Offset "3AC". A New byte should have been Highlighted at Offset "3AC". ([View Image](https://user-images.githubusercontent.com/78656905/228983914-c74a2576-2786-45eb-a98f-67636b66b86a.png)).
@@ -23,6 +25,8 @@
 - I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
 
 - Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
+
+</details>
 
 # Editing Skill Points:
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
