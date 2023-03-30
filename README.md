@@ -25,7 +25,7 @@
 
 - I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
 
-- Startup "Generation Zero" from Steam. You should see the Correct Ammount of Skill Points.
+- Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
 
 </details>
 
@@ -48,7 +48,7 @@
 
 - I will change my Value From 86 to 2 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228988392-1f7667c7-6730-4ea8-80ef-572c47e73f3d.png)).
 
-- Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
+- Startup "Generation Zero" from Steam. You should see the Correct Ammount of Skill Points.
 
 </details>
 
