@@ -11,9 +11,7 @@
 
 
 # Editing Player Level:
-- Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice.
-
-![image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)
+- Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. [View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png).
 
 
 
