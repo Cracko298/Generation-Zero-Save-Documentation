@@ -16,15 +16,15 @@
 <details>
   <summary>Click For Item ID's.</summary>
   
-- 1-Star ID: 2727348298
+1. 1-Star ID: 2727348298
   
-- 2-Star ID: 1113029778
+2. 2-Star ID: 1113029778
   
-- 3-Star ID: 1708071827
+3. 3-Star ID: 1708071827
   
-- 4-Star ID: 1940676808
+4. 4-Star ID: 1940676808
   
-- 5-Star ID: 1287668466
+5. 5-Star ID: 1287668466
   
-- 6-Star ID: 1135722230
+6. Experimental (6-Star) ID: 1135722230
 </details>
