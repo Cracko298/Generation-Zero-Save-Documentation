@@ -9,5 +9,6 @@ A simple WIP Python CLU that edits some Values in the Save-File. No extra softwa
 
 
 
-Pvg 90 4/Star Hex Hash: AD 48 6F DC
-Pvg 90 4/Star Dec Hash: 3698280621
+- Pvg 90 4/Star Hex Hash: AD 48 6F DC
+
+- Pvg 90 4/Star Dec Hash: 3698280621
