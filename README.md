@@ -21,7 +21,7 @@
 
 - After Highlighting the Byte at Offset "3AC" Look at The Window To Your Right (Should be Called **Data Inspector** or Something Like That). ([View Image](https://user-images.githubusercontent.com/78656905/228984773-9157f3d9-aa77-41b5-b9e7-e7eedca28049.png)).
 
-- You Want to Double Click the Value to The Right of Int8 in the "Data Inspector" Window. That Can any Number In-between **0 and 87**. ([View Image](https://user-images.githubusercontent.com/78656905/228985277-ff36e9f1-01ea-42c6-937c-5ac0fef1587d.png)).
+- You Want to Double Click the Value to The Right of Int8 in the "Data Inspector" Window. That Can any Number In-between **0 and 31**. ([View Image](https://user-images.githubusercontent.com/78656905/228985277-ff36e9f1-01ea-42c6-937c-5ac0fef1587d.png)).
 
 - I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
 
@@ -42,15 +42,11 @@
 
 - Click "Seach" and then Click "GoTo..." then type in Offset "3A0". A New byte should have been Highlighted at Offset "3A0". ([View Image](https://user-images.githubusercontent.com/78656905/228987409-1dd7c6e6-8e8f-47fc-a8b1-1b27ca9ff201.png)).
 
-![image](https://user-images.githubusercontent.com/78656905/228988036-e5460068-36cb-4353-bbf0-2fb275282f9b.png)
-
-
-
 - After Highlighting the Byte at Offset "3A0" Look at The Window To Your Right (Should be Called **Data Inspector** or Something Like That). ([View Image](https://user-images.githubusercontent.com/78656905/228988036-e5460068-36cb-4353-bbf0-2fb275282f9b.png)).
 
-- You Want to Double Click the Value to The Right of Int8 in the "Data Inspector" Window. That Can any Number In-between **0 and 31**. ([View Image](https://user-images.githubusercontent.com/78656905/228985277-ff36e9f1-01ea-42c6-937c-5ac0fef1587d.png)).
+- You Want to Double Click the Value to The Right of Int8 in the "Data Inspector" Window. That Can any Number In-between **0 and 87**. ([View Image](https://user-images.githubusercontent.com/78656905/228988287-7d11aa7a-4736-4fc8-935e-19c0f489618a.png)).
 
-- I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
+- I will change my Value From 86 to 2 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228988392-1f7667c7-6730-4ea8-80ef-572c47e73f3d.png)).
 
 - Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
 
