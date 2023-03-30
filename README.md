@@ -29,6 +29,31 @@
 **- Experimental (6-Star) ID: 1135722230**
 </details>
 
+
+# Älgstudsare Hunting Rifle
+<details>
+  <summary>Click For Item ID's.</summary>
+  
+  ### ÄHR - Item ID's
+  
+**- 1-Star ID: 1512823500**
+  
+**- 2-Star ID: 3797852091**
+  
+**- 3-Star ID: 1384764071**
+  
+**- 4-Star ID: 789944801**
+  
+**- 5-Star ID: 2926162563**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+
+
+
+
+
 # Kvm 59 Machine Gun
 <details>
   <summary>Click For Item ID's.</summary>
@@ -64,5 +89,5 @@
   
 **- 5-Star ID: 1115833621**
   
-**- Experimental (6-Star) ID: *No Item ID**
+**- Experimental (6-Star) ID: No Item ID.**
 </details>
