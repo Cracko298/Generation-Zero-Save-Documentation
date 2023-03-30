@@ -12,7 +12,7 @@
 
 # Pansarvärnsgevär 90
 <details>
-  <summary>Click For Pvg 90 ID's.</summary>
+  <summary>Click For "Pvg 90" ID's.</summary>
   
   ### Pvg 90 - Item ID's
   
@@ -32,7 +32,7 @@
 
 # Älgstudsare Hunting Rifle
 <details>
-  <summary>Click For ÄHR ID's.</summary>
+  <summary>Click For "ÄHR" ID's.</summary>
   
   ### ÄHR - Item ID's
   
@@ -56,7 +56,7 @@
 
 # Kvm 59 Machine Gun
 <details>
-  <summary>Click For Kvm 59 ID's.</summary>
+  <summary>Click For "Kvm 59" ID's.</summary>
   
   ### Kvm 59 - Item ID's
   
@@ -75,7 +75,7 @@
 
 # Kvm 89 Squad Automatic Weapon
 <details>
-  <summary>Click For Kvm 89 ID's.</summary>
+  <summary>Click For "Kvm 89" ID's.</summary>
   
   ### Kvm 89 - Item ID's
   
