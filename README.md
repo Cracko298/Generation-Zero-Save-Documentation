@@ -50,7 +50,7 @@
 </details>
 
 
-# AI-76
+# AI-76 Assault Rifle
 <details>
   <summary>Click For "AI-76" ID's.</summary>
   
