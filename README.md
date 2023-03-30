@@ -22,7 +22,7 @@
 
 - I will change my Value From 29 to 30 in this tutorial. After changing the byte, it will turn to a different color. Such as "Red". Press "Ctrl+S" to Save the File.  ([View Image](https://user-images.githubusercontent.com/78656905/228985634-48164763-15c7-41ed-b80c-b69f9a17e6af.png)).
 
-- You Can Now Overwrite 
+- Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
 
 
 
