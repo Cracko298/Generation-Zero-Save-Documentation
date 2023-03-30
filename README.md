@@ -54,7 +54,7 @@
 
 
 
-# Item ID's:
+# Weapon Item ID List:
 <details>
   <summary>Weapon Item ID's.</summary>
 
