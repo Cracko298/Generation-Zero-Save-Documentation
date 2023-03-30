@@ -6,7 +6,7 @@
 - Some Hexadecimal and Simple Low-Level Editing Experience. (Since this guide Uses Binary, Hex, & Decimal).
 
 # Notice:
-- Save-File Location is Located Here: **"[C:\Users\USERNAME\Documents\Avalanche Studios\GenerationZero\Saves\YOURID\savegame](https://savegamelocation.online/generation-zero/index.html)"**.
+- Save-File Location is Located [Here](https://savegamelocation.online/generation-zero/index.html): **"C:\Users\USERNAME\Documents\Avalanche Studios\GenerationZero\Saves\YOURID\savegame"**.
 - Always Make sure you backup your Save-File before continuing with this guide!
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 
