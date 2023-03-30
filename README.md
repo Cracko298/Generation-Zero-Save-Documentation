@@ -8,7 +8,6 @@
 # Notice:
 - Always Make sure you backup your Save-File before continuing with this guide!
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
-- The **"Pansarvärnsgevär 90"** will be refered to as the **"Pvg 90"** During This Guide.
 
 # Pansarvärnsgevär 90
 <details>
