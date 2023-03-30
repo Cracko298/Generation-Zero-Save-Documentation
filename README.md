@@ -9,6 +9,7 @@
 - Save-File Location is Located [Here](https://savegamelocation.online/generation-zero/index.html): **"C:\Users\USERNAME\Documents\Avalanche Studios\GenerationZero\Saves\YOURID\savegame"**.
 - Always Make sure you backup your Save-File before continuing with this guide!
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
+- I will refer to the [Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90) as the [Pvg 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90).
 
 
 # Editing Player Level:
