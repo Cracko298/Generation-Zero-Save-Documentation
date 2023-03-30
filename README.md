@@ -28,3 +28,22 @@
   
 **- Experimental (6-Star) ID: 1135722230**
 </details>
+
+# Kvm 59 Machine Gun
+<details>
+  <summary>Click For Item ID's.</summary>
+  
+  ### Kvm 59 - Item ID's
+  
+**- 1-Star ID: 1601066909**
+  
+**- 2-Star ID: 756346513**
+  
+**- 3-Star ID: 1600997944**
+  
+**- 4-Star ID: 470978427**
+  
+**- 5-Star ID: 2318892602**
+  
+**- Experimental (6-Star) ID: 3823899603**
+</details>
