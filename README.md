@@ -10,8 +10,6 @@
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 - The **"Pansarvärnsgevär 90"** will be refered to as the **"Pvg 90"** During This Guide.
 
-# Item IDs:
-
 # Pansarvärnsgevär 90
 <details>
   <summary>Click For Item ID's.</summary>
