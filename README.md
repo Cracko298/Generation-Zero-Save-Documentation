@@ -47,3 +47,22 @@
   
 **- Experimental (6-Star) ID: 3823899603**
 </details>
+
+# Kvm 89 Squad Automatic Weapon
+<details>
+  <summary>Click For Item ID's.</summary>
+  
+  ### Kvm 89 - Item ID's
+  
+**- 1-Star ID: 862304831**
+  
+**- 2-Star ID: 3522034483**
+  
+**- 3-Star ID: 2700579659**
+  
+**- 4-Star ID: 269593219**
+  
+**- 5-Star ID: 1115833621**
+  
+**- Experimental (6-Star) ID: *No Item ID**
+</details>
