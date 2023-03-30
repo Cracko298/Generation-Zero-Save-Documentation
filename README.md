@@ -52,6 +52,13 @@
 
 </details>
 
+# Editing Weapon Rarity:
+- Before we continue, make sure to check out the [Weapon Item ID's] to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity).
+- In This Tutorial I will be Switching my [Experimental Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90) to a [Dilapidated Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90).
+
+
+
+
 
 
 # Weapon Item ID List:
