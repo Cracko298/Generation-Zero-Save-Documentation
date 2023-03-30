@@ -70,9 +70,43 @@
 </details>
 
 
+# Automatgevär 4 Assault Rifle
+<details>
+  <summary>Click For "AG4" ID's.</summary>
+  
+  ### AG4 - Item ID's
+  
+**- 1-Star ID: 2475865089**
+  
+**- 2-Star ID: 1938816247**
+  
+**- 3-Star ID: 1564277953**
+  
+**- 4-Star ID: 1078124586**
+  
+**- 5-Star ID: 821390159**
+  
+**- Experimental (6-Star) ID: 1986398252**
+</details>
 
-
-
+# Automatgevär 5 Assault Rifle
+<details>
+  <summary>Click For "AG5" ID's.</summary>
+  
+  ### AG5 - Item ID's
+  
+**- 1-Star ID: 1858075135**
+  
+**- 2-Star ID: 4038009463**
+  
+**- 3-Star ID: 1063891050**
+  
+**- 4-Star ID: 1628079621**
+  
+**- 5-Star ID: 3458907921**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
 
 
 
