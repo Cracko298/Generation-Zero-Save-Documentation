@@ -50,6 +50,35 @@
 </details>
 
 
+# AI-76
+<details>
+  <summary>Click For "AI-76" ID's.</summary>
+  
+  ### AI-76 - Item ID's
+  
+**- 1-Star ID: 3528235377**
+  
+**- 2-Star ID: 4170566388**
+  
+**- 3-Star ID: 3252499511**
+  
+**- 4-Star ID: 2593629241**
+  
+**- 5-Star ID: 2623516647**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
