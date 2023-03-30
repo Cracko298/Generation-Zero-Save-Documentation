@@ -15,8 +15,6 @@
 # Pansarvärnsgevär 90
 <details>
   <summary>Click For Item ID's.</summary>
-  
-  ## Heading
 - 1-Star ID: 2727348298
 - 2-Star ID: 1113029778
 - 3-Star ID: 1708071827
