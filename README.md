@@ -54,6 +54,9 @@
 
 
 
+# Item ID's:
+<details>
+  <summary>Weapon Item ID's.</summary>
 
 # Pansarvärnsgevär 90
 <details>
@@ -198,4 +201,6 @@
 **- 5-Star ID: 1115833621**
   
 **- Experimental (6-Star) ID: No Item ID.**
+</details>
+
 </details>
