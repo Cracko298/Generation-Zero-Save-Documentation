@@ -72,7 +72,10 @@
 
 - Since the found Value is a 4-Byte Integer, We'll edit the "Int32" value, in this case I will replace the Value with the **2-Star Pvg 90** ID. ([View Image](https://user-images.githubusercontent.com/78656905/228995140-c3263ba6-7d84-468d-810e-f6dea998c94b.jpg)).
 
-- Save with "Ctrl+S" and startup "Generation Zero".
+- Save with "Ctrl+S" and startup "Generation Zero", If you did it correctly, you should see an Increase (or decrease in Rarity).
+
+![image](https://user-images.githubusercontent.com/78656905/228996729-fca4a3e9-7a3e-4edc-96bb-8ee46dd8abd9.png)
+
 
 # Weapon Item ID List:
 <details>
