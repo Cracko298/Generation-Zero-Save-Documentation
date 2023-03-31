@@ -55,8 +55,9 @@
 
 # Editing Weapon Rarity:
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity).
-- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Dilapidated Pvg 90**. (For Demonstration Purposes).
-
+- Also, make sure that the Weapon is in your Inventory/Hand.
+- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Dilapidated Pvg 90**. (For Demo Purposes).
+- You'll want to copy the Weapon ID you currently have from the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) below. (Meaning if you have a Pvg 1-Star, copy the 1-Star ID first).
 
 
 
