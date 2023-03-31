@@ -66,7 +66,7 @@
 <details>
   <summary>Weapon Item ID's.</summary>
 
-# Pansarvärnsgevär 90
+## Pansarvärnsgevär 90
 <details>
   <summary>Click For "Pvg 90" ID's.</summary>
   
@@ -86,7 +86,7 @@
 </details>
 
 
-# Älgstudsare Hunting Rifle
+## Älgstudsare Hunting Rifle
 <details>
   <summary>Click For "ÄHR" ID's.</summary>
   
@@ -106,7 +106,7 @@
 </details>
 
 
-# AI-76 Assault Rifle
+## AI-76 Assault Rifle
 <details>
   <summary>Click For "AI-76" ID's.</summary>
   
@@ -126,7 +126,7 @@
 </details>
 
 
-# Automatgevär 4 Assault Rifle
+## Automatgevär 4 Assault Rifle
 <details>
   <summary>Click For "AG4" ID's.</summary>
   
@@ -145,7 +145,7 @@
 **- Experimental (6-Star) ID: 1986398252**
 </details>
 
-# Automatgevär 5 Assault Rifle
+## Automatgevär 5 Assault Rifle
 <details>
   <summary>Click For "AG5" ID's.</summary>
   
@@ -173,7 +173,7 @@
 
 
 
-# Kvm 59 Machine Gun
+## Kvm 59 Machine Gun
 <details>
   <summary>Click For "Kvm 59" ID's.</summary>
   
@@ -192,7 +192,7 @@
 **- Experimental (6-Star) ID: 3823899603**
 </details>
 
-# Kvm 89 Squad Automatic Weapon
+## Kvm 89 Squad Automatic Weapon
 <details>
   <summary>Click For "Kvm 89" ID's.</summary>
   
