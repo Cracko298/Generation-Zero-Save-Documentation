@@ -62,7 +62,7 @@
 
 - You'll want to copy the Weapon ID you currently have from the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) below. (Meaning if you have a Pvg 1-Star, copy that). ([View Image](https://user-images.githubusercontent.com/78656905/228991204-dc74c77c-8c53-4f14-97a8-e592fb9ee028.png)).
 
-- With that ID now copied, head into your preffered Hex Editor (I am using HxD). 
+- With that ID now copied, head into your preffered Hex Editor (I am using HxD). Press "Ctrl+F" to open up the Search Dialouge, and Click "Integer Number" Tab. ([View Image](https://user-images.githubusercontent.com/78656905/228991732-062b6558-9494-477e-a9ce-700bf30baa18.png)).
 
 
 
