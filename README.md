@@ -66,6 +66,8 @@
 
 - Paste in the Copied Weapon ID, make sure that the "Search Direction" is set to "all",  and Click "Seach All". ([View Image](https://user-images.githubusercontent.com/78656905/228992118-9bf17f41-0d33-4307-b86b-dfd12ad236eb.png)).
 
+- Now, glance down at the bottom for Search Hit(s). You should have roughly **1 to 6** results. Only **1** of the results is your actual weapon. For me, it only has one hit(s). ([View Image](https://user-images.githubusercontent.com/78656905/228992923-57116f10-5b87-499b-94bf-26ebfb286e1a.png)).
+
 
 # Weapon Item ID List:
 <details>
