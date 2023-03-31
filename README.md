@@ -55,7 +55,7 @@
 
 # Editing Weapon Rarity:
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity).
-- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Dilapidated Pvg 90**.
+- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Dilapidated Pvg 90**. (For Demonstration Purposes).
 
 
 
