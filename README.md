@@ -64,8 +64,7 @@
 
 - With that ID now copied, head into your preffered Hex Editor (I am using HxD). Press "Ctrl+F" to open up the Search Dialouge, and Click "Integer Number" Tab. ([View Image](https://user-images.githubusercontent.com/78656905/228991732-062b6558-9494-477e-a9ce-700bf30baa18.png)).
 
-
-
+- Paste in the Copied Weapon ID, make sure that the "Search Direction" is set to "all",  and Click "Seach All". ([View Image](https://user-images.githubusercontent.com/78656905/228992118-9bf17f41-0d33-4307-b86b-dfd12ad236eb.png)).
 
 
 # Weapon Item ID List:
