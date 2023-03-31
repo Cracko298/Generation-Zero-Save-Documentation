@@ -58,9 +58,9 @@
 
 - Also, make sure that the Weapon is in your Inventory/Hand, and assigned to a slot. (Any of the slots work).
 
-- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Dilapidated Pvg 90**. (For Demo Purposes).
+- In This Tutorial I will be Switching my **Experimental Pvg 90** to the worse **Worn Pvg 90**. (For Demo Purposes).
 
-- You'll want to copy the Weapon ID you currently have from the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) below. (Meaning if you have a Pvg 1-Star, copy that). ([View Image](https://user-images.githubusercontent.com/78656905/228991204-dc74c77c-8c53-4f14-97a8-e592fb9ee028.png)).
+- You'll want to copy the Weapon ID you currently have from the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) below. (Meaning if you have a Pvg 2-Star, copy that). ([View Image](https://user-images.githubusercontent.com/78656905/228991204-dc74c77c-8c53-4f14-97a8-e592fb9ee028.png)).
 
 - With that ID now copied, head into your preffered Hex Editor (I am using HxD). Press "Ctrl+F" to open up the Search Dialouge, and Click "Integer Number" Tab. ([View Image](https://user-images.githubusercontent.com/78656905/228991732-062b6558-9494-477e-a9ce-700bf30baa18.png)).
 
@@ -68,6 +68,9 @@
 
 - Now, glance down at the bottom for Search Hit(s). You should have roughly **1 to 6** results. Only **1** of the results is your actual weapon. For me, it only has one hit(s). ([View Image](https://user-images.githubusercontent.com/78656905/228992923-57116f10-5b87-499b-94bf-26ebfb286e1a.png)).
 
+- The weapons within an Assigned Slot are normally within the Offset range of 1000 - 2300. Since I only have one hit(s) I'll select that one. ([View Image](https://user-images.githubusercontent.com/78656905/228993639-723d6c8c-a6d2-423c-bafa-89222d393f94.png)).
+
+- Since the found Value is a 4-Byte Integer, We'll edit the "Int32" value, in this case I will replace the Value with the **2-Star Pvg 90** ID.
 
 # Weapon Item ID List:
 <details>
