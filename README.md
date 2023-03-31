@@ -53,10 +53,11 @@
 
 </details>
 
-<details>
-  <summary>Weapon Rarity/ID Edit.</summary>
 
 # Editing Weapon Rarity:
+<details>
+  <summary>Weapon Rarity/ID Edit.</summary>
+  
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity ATM).
 
 - Also, make sure that the Weapon is in your Inventory/Hand, and assigned to a slot. (Any of the slots work).
