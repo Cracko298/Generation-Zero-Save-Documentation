@@ -53,6 +53,9 @@
 
 </details>
 
+<details>
+  <summary>Weapon Rarity/ID Edit.</summary>
+
 # Editing Weapon Rarity:
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity ATM).
 
@@ -76,6 +79,7 @@
 
 ![image](https://user-images.githubusercontent.com/78656905/228996729-fca4a3e9-7a3e-4edc-96bb-8ee46dd8abd9.png)
 
+</details>
 
 # Weapon Item ID List:
 <details>
