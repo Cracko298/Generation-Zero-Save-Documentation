@@ -1,6 +1,7 @@
 # Generation-Zero-Save-Editing
 
 # Prerequists:
+- The Item ID's where tested and pulled from [Generation Zero (GenZ) Save-Editor](https://github.com/GrimChan/GenZ-Save-File-Editor/blob/c-sharp/Resources/WeaponIDs.csv).
 - A Hex Editor such as [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20).
 - The Generation Zero Game from [Steam](https://store.steampowered.com/app/704270/Generation_Zero/).
 - Some Hexadecimal and Simple Low-Level Editing Experience. (Since this guide Uses Binary, Hex, & Decimal).
