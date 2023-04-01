@@ -252,6 +252,164 @@
 
 
 
+## Meusser Hunting Rifle
+<details>
+  <summary>Click For "MHR" ID's.</summary>
+  
+  ### MHR - Item ID's
+  
+**- 1-Star ID: 2052912546**
+  
+**- 2-Star ID: 60111070**
+  
+**- 3-Star ID: 2700874240**
+  
+**- 4-Star ID: 2214328775**
+  
+**- 5-Star ID: 345450212**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+## HP5 Submachine Gun
+<details>
+  <summary>Click For "HP5" ID's.</summary>
+  
+  ### HP5 - Item ID's
+  
+**- 1-Star ID: 3329358393**
+  
+**- 2-Star ID: 1919634899**
+  
+**- 3-Star ID: 894785287**
+  
+**- 4-Star ID: 764274991**
+  
+**- 5-Star ID: 3995651919**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+## M/46 "Kpist" SMG Submachine Gun
+<details>
+  <summary>Click For "Kpist" ID's.</summary>
+  
+  ### Kpist - Item ID's
+  
+**- 1-Star ID: 1438049323**
+  
+**- 2-Star ID: 2562218223**
+  
+**- 3-Star ID: 471434641**
+  
+**- 4-Star ID: 3343263738**
+  
+**- 5-Star ID: 1938906168**
+  
+**- Experimental (6-Star) ID: 1734102884**
+</details>
+
+## Sjöqvist Semi-Auto Shotgun
+<details>
+  <summary>Click For "Sjöqvist" ID's.</summary>
+  
+  ### Sjöqvist - Item ID's
+  
+**- 1-Star ID: 1668043928**
+  
+**- 2-Star ID: 3944939440**
+  
+**- 3-Star ID: 3723204762**
+  
+**- 4-Star ID: 1343436027**
+  
+**- 5-Star ID: 3777482652**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+## 12G Pump Action Shotgun
+<details>
+  <summary>Click For "12G Pump" ID's.</summary>
+  
+  ### 12G Pump - Item ID's
+  
+**- 1-Star ID: 3522570570**
+  
+**- 2-Star ID: 2946942083**
+  
+**- 3-Star ID: 400886324**
+  
+**- 4-Star ID: 1211181616**
+  
+**- 5-Star ID: 2270892881**
+  
+**- Experimental (6-Star) ID: 1883785329**
+</details>
+
+## .44 Magnus Revolver
+<details>
+  <summary>Click For "Magnus" ID's.</summary>
+  
+  ### Magnus - Item ID's
+  
+**- 1-Star ID: 525713563**
+  
+**- 2-Star ID: 3669591716**
+  
+**- 3-Star ID: 1539616687**
+  
+**- 4-Star ID: 3654146736**
+  
+**- 5-Star ID: 4030765418**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+
+## Möller PP Pistol
+<details>
+  <summary>Click For "Möller" ID's.</summary>
+  
+  ### Möller - Item ID's
+  
+**- 1-Star ID: 3055879776**
+  
+**- 2-Star ID: 2800125862**
+  
+**- 3-Star ID: 3155991537**
+  
+**- 4-Star ID: 1225959613**
+  
+**- 5-Star ID: 358135215**
+  
+**- Experimental (6-Star) ID: No Item ID.**
+</details>
+
+
+
+
+
+## Klaucke 17 Pistol
+<details>
+  <summary>Click For "Klaucke" ID's.</summary>
+  
+  ### Klaucke - Item ID's
+  
+**- 1-Star ID: 1920462793**
+  
+**- 2-Star ID: 30913048**
+  
+**- 3-Star ID: 317912168**
+  
+**- 4-Star ID: 1158656473**
+  
+**- 5-Star ID: 1250828800**
+  
+**- Experimental (6-Star) ID: 2290286314**
+</details>
+
+
 
 
 
