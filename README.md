@@ -231,4 +231,35 @@
 **- Experimental (6-Star) ID: No Item ID.**
 </details>
 
+## Granatgevär m/49 Rocket Launcher
+<details>
+  <summary>Click For "Gng m/49" ID's.</summary>
+  
+  ### Gng m/49 - Item ID's
+  
+**- 1-Star ID: 413303018**
+  
+**- 2-Star ID: 678720182**
+  
+**- 3-Star ID: 1930252139**
+  
+**- 4-Star ID: 3849365488**
+  
+**- 5-Star ID: 1756453791**
+  
+**- Experimental (6-Star) ID: 2237628567**
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
