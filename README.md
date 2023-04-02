@@ -97,7 +97,7 @@
       
 **- "Simple" First Aid Pack: 2050144797**
       
-**- "Standard" First Aid Pack: Reserved Number**
+**- "Standard" First Aid Pack: 154430305**
       
 **- "Advanced" First Aid Pack: 4135535880**
       
