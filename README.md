@@ -93,13 +93,13 @@
   <details>
     <summary>Click For "First AID Pack" ID's.</summary>
     
-      ### First AID Pack - Item ID's
+    ### First AID Pack - Item ID's
       
-      **- "Simple" First Aid Pack: Reserved Number**
+**- "Simple" First Aid Pack: Reserved Number**
       
-      **- "Standard" First Aid Pack: Reserved Number**
+**- "Standard" First Aid Pack: Reserved Number**
       
-      **- "Advanced" First Aid Pack: 4135535880**
+**- "Advanced" First Aid Pack: 4135535880**
       
 </details>
 
