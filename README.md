@@ -83,6 +83,36 @@
 
 </details>
 
+
+# Editing First Aid Packs:
+
+
+
+
+
+
+
+
+# Item ID List:
+<details>
+  <summary>ormal Item ID's.</summary>
+  
+  ## First Aid Packs
+  <details>
+    <summary>Click For "First AID Pack" ID's.</summary>
+    
+      ### First AID Pack - Item ID's
+      
+      **- "Simple" First Aid Pack: Reserved Number**
+      
+      **- "Standard" First Aid Pack: Reserved Number**
+      
+      **- "Advanced" First Aid Pack: 4135535880**
+      
+      </details>
+</details>
+
+
 # Weapon Item ID List:
 <details>
   <summary>Weapon Item ID's.</summary>
