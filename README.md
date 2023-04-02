@@ -102,6 +102,17 @@
 **- "Advanced" First Aid Pack: 4135535880**
       
 </details>
+  
+  ## Deployable Items
+  
+  <details>
+    <summary>Click For "Deployable" ID's.</summary>
+    
+  ### Deployable Items - Item ID's
+  
+**- Field Radio ID: 2159829079**
+
+</details>
 
 </details>
 
