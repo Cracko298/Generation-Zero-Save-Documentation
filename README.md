@@ -100,6 +100,8 @@
 **- "Standard" First Aid Pack: 154430305**
       
 **- "Advanced" First Aid Pack: 4135535880**
+
+**- Adrenaline Shot: 3938124543**
       
 </details>
   
