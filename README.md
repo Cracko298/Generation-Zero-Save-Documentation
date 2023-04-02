@@ -84,18 +84,9 @@
 </details>
 
 
-# Editing First Aid Packs:
-
-
-
-
-
-
-
-
 # Item ID List:
 <details>
-  <summary>ormal Item ID's.</summary>
+  <summary>Normal Item ID's.</summary>
   
   ## First Aid Packs
   <details>
