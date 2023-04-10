@@ -539,7 +539,8 @@
   <details> 
    <summary>Click For "Character #5 Offsets"</summary>
      
-      
+     
+ 
 **- Player Level Offset: "0x16CC"**
       
 **- Skill Points Offset: "0x16C0**
