@@ -16,7 +16,7 @@
 ### Other Save Slots (Not Including Save-Slot #1).
 - **This Guide only works for Save-Slot #1**
 - **You are able to follow a similar guide, with Player-Level, EXP, and Skill Points.
-- **You'll need to Look at the [Character Offset List]() and Might need to do some Math.
+- **You'll need to Look at the [Character Offset List](https://github.com/Cracko298/Generation-Zero-Save-Editing-Guide#character-offsets) and Might need to do some Math.
 
 
 
