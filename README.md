@@ -29,7 +29,7 @@
 
 ## Editing Player Level:
 <details>
-  <summary>Player Level Edit.</summary>
+  <summary>***Player Level Edit.***</summary>
   
 ### Editing Player Level:
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
@@ -50,7 +50,7 @@
 
 ## Editing Skill Points Level:
 <details>
-  <summary>Player Skills Edit.</summary>
+  <summary>***Player Skills Edit.***</summary>
 
 ### Editing Skill Points:
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
@@ -70,7 +70,7 @@
 
 ## Editing Weapon Rarity:
 <details>
-  <summary>Weapon Rarity/ID Edit.</summary>
+  <summary>***Weapon Rarity/ID Edit.***</summary>
   
 ### Editing Weapon Rarity:
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity ATM).
@@ -109,7 +109,7 @@
 
 ## Item ID List:
 <details>
-  <summary>Normal Item ID's.</summary>
+  <summary>***Normal Item ID's.***</summary>
   
   ### First Aid Packs
   
