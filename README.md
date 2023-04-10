@@ -493,6 +493,7 @@
   
   <details>
     <summary>Click For "Character #2 Offsets"</summary>
+    
       
 **- Player Level Offset: **
       
