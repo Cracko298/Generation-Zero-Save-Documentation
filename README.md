@@ -494,7 +494,7 @@
   <details>
     <summary>Click For "Character #2 Offsets"</summary>
     
-   ### Character #5
+   ### Character #2
      
       
 **- Player Level Offset: "0x874"**
@@ -511,7 +511,7 @@
   <details>
     <summary>Click For "Character #3 Offsets"</summary>
     
-   ### Character #5
+   ### Character #3
      
       
 **- Player Level Offset: "0xD3C"**
@@ -528,7 +528,7 @@
   <details>
     <summary>Click For "Character #4 Offsets"</summary>
     
-   ### Character #5
+   ### Character #4
       
       
 **- Player Level Offset: "0x1204"**
