@@ -24,7 +24,7 @@
 
 
 
-# <ins> Guides </ins>
+# <ins> Save-Editing Guides </ins>
 
 
 
@@ -106,7 +106,7 @@
 
 
 
-# <ins> Lists </ins>
+# <ins> Guide-Lists </ins>
 
 
 ## Item ID List:
