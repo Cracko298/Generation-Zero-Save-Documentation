@@ -144,7 +144,7 @@
 
 ## Weapon Item ID List:
 <details>
-  <summary>Weapon Item ID's.</summary>
+  <summary>*Weapon Item ID's.</summary>
 
 ### Pansarvärnsgevär 90
 <details>
