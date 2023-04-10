@@ -549,7 +549,7 @@
  
 **- Player Level Offset: "0x16CC"**
       
-**- Skill Points Offset: "0x16C0" **
+**- Skill Points Offset: "0x16C0"**
 
 **- Gained EXP Offset: "0x16C8"**
 
