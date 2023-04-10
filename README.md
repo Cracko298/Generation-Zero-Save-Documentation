@@ -27,10 +27,11 @@
 
 
 
-# Editing Player Level:
+## Editing Player Level:
 <details>
   <summary>Player Level Edit.</summary>
   
+### Editing Player Level:
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
 
 - Click "Seach" and then Click "GoTo..." then type in Offset "3AC". A New byte should have been Highlighted at Offset "3AC". ([View Image](https://user-images.githubusercontent.com/78656905/228983914-c74a2576-2786-45eb-a98f-67636b66b86a.png)).
@@ -49,11 +50,11 @@
 
 
 
-# Editing Skill Points Level:
+## Editing Skill Points Level:
 <details>
   <summary>Player Skills Edit.</summary>
 
-# Editing Skill Points:
+### Editing Skill Points:
 - Open your Generation Zero Save-File "savegame" in [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) or your Hex Editor of Choice. ([View Image](https://user-images.githubusercontent.com/78656905/228982927-67b49729-3dca-4e5d-9f10-37ad5b75fce6.png)).
 
 - Click "Seach" and then Click "GoTo..." then type in Offset "3A0". A New byte should have been Highlighted at Offset "3A0". ([View Image](https://user-images.githubusercontent.com/78656905/228987409-1dd7c6e6-8e8f-47fc-a8b1-1b27ca9ff201.png)).
@@ -69,10 +70,11 @@
 </details>
 
 
-# Editing Weapon Rarity:
+## Editing Weapon Rarity:
 <details>
   <summary>Weapon Rarity/ID Edit.</summary>
   
+### Editing Weapon Rarity:
 - Before we continue, make sure to check out the [Weapon Item ID's](https://github.com/Cracko298/Generation-Zero-Save-Editing#weapon-item-id-list) to see if Your Item has an ID that we Know. (Otherwise you can't edit it's Rarity ATM).
 
 - Also, make sure that the Weapon is in your Inventory/Hand, and assigned to a slot. (Any of the slots work).
