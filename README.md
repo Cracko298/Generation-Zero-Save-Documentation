@@ -1,19 +1,21 @@
 # Generation-Zero-Save-Editing
 
-# Prerequists:
+# Starter Content
+
+## Prerequists:
 - Some of The Weapon Item ID's where tested and pulled from [Generation Zero (GenZ) Save-Editor](https://github.com/GrimChan/GenZ-Save-File-Editor/blob/c-sharp/Resources/WeaponIDs.csv).
 - A Hex Editor such as [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20).
 - The Generation Zero Game from [Steam](https://store.steampowered.com/app/704270/Generation_Zero/).
 - Some Hexadecimal and Simple Low-Level Editing Experience. (Since this guide Uses Binary, Hex, & Decimal).
 
-# Notice:
+## Notice:
 - Save-File Location is Located [Here](https://savegamelocation.online/generation-zero/index.html): **"C:\Users\USERNAME\Documents\Avalanche Studios\GenerationZero\Saves\YOURID\savegame"**.
 - Always Make sure you backup your Save-File before continuing with this guide!
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 - I will refer to the [Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90) as the [Pvg 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90).
 
-# WARNING:
-## Other Save Slots (Not Including Save-Slot #1).
+## WARNING:
+### Other Save Slots (Not Including Save-Slot #1).
 - **This Guide only works for Save-Slot #1**
 - **You are able to follow a similar guide, with Player-Level, EXP, and Skill Points.
 - **You'll need to Look at the [Character Offset List]() and Might need to do some Math.
@@ -45,8 +47,6 @@
 - Startup "Generation Zero" from Steam. You might need to kill an enemy or two to set your EXP to the Correct Amount.
 
 </details>
-
-
 
 
 
@@ -100,11 +100,19 @@
 </details>
 
 
-# Item ID List:
+
+
+
+
+
+
+# <ins> Lists </ins>
+
+## Item ID List:
 <details>
   <summary>Normal Item ID's.</summary>
   
-  ## First Aid Packs
+  ### First Aid Packs
   
   <details>
     <summary>Click For "First AID Pack" ID's.</summary>
@@ -121,7 +129,7 @@
       
 </details>
   
-  ## Deployable Items
+  ### Deployable Items
   
   <details>
     <summary>Click For "Deployable" ID's.</summary>
@@ -135,11 +143,11 @@
 </details>
 
 
-# Weapon Item ID List:
+## Weapon Item ID List:
 <details>
   <summary>Weapon Item ID's.</summary>
 
-## Pansarvärnsgevär 90
+### Pansarvärnsgevär 90
 <details>
   <summary>Click For "Pvg 90" ID's.</summary>
   
@@ -159,7 +167,7 @@
 </details>
 
 
-## Älgstudsare Hunting Rifle
+### Älgstudsare Hunting Rifle
 <details>
   <summary>Click For "ÄHR" ID's.</summary>
   
@@ -179,7 +187,7 @@
 </details>
 
 
-## AI-76 Assault Rifle
+### AI-76 Assault Rifle
 <details>
   <summary>Click For "AI-76" ID's.</summary>
   
@@ -199,7 +207,7 @@
 </details>
 
 
-## Automatgevär 4 Assault Rifle
+### Automatgevär 4 Assault Rifle
 <details>
   <summary>Click For "AG4" ID's.</summary>
   
@@ -218,7 +226,7 @@
 **- Experimental (6-Star) ID: 1986398252**
 </details>
 
-## Automatgevär 5 Assault Rifle
+### Automatgevär 5 Assault Rifle
 <details>
   <summary>Click For "AG5" ID's.</summary>
   
@@ -246,7 +254,7 @@
 
 
 
-## Kvm 59 Machine Gun
+### Kvm 59 Machine Gun
 <details>
   <summary>Click For "Kvm 59" ID's.</summary>
   
@@ -265,7 +273,7 @@
 **- Experimental (6-Star) ID: 3823899603**
 </details>
 
-## Kvm 89 Squad Automatic Weapon
+### Kvm 89 Squad Automatic Weapon
 <details>
   <summary>Click For "Kvm 89" ID's.</summary>
   
@@ -284,7 +292,7 @@
 **- Experimental (6-Star) ID: No Item ID.**
 </details>
 
-## Granatgevär m/49 Rocket Launcher
+### Granatgevär m/49 Rocket Launcher
 <details>
   <summary>Click For "Gng m/49" ID's.</summary>
   
@@ -305,7 +313,7 @@
 
 
 
-## Meusser Hunting Rifle
+### Meusser Hunting Rifle
 <details>
   <summary>Click For "MHR" ID's.</summary>
   
@@ -324,7 +332,7 @@
 **- Experimental (6-Star) ID: No Item ID.**
 </details>
 
-## HP5 Submachine Gun
+### HP5 Submachine Gun
 <details>
   <summary>Click For "HP5" ID's.</summary>
   
@@ -343,7 +351,7 @@
 **- Experimental (6-Star) ID: No Item ID.**
 </details>
 
-## M/46 "Kpist" SMG Submachine Gun
+### M/46 "Kpist" SMG Submachine Gun
 <details>
   <summary>Click For "Kpist" ID's.</summary>
   
@@ -362,7 +370,7 @@
 **- Experimental (6-Star) ID: 1734102884**
 </details>
 
-## Sjöqvist Semi-Auto Shotgun
+### Sjöqvist Semi-Auto Shotgun
 <details>
   <summary>Click For "Sjöqvist" ID's.</summary>
   
@@ -381,7 +389,7 @@
 **- Experimental (6-Star) ID: No Item ID.**
 </details>
 
-## 12G Pump Action Shotgun
+### 12G Pump Action Shotgun
 <details>
   <summary>Click For "12G Pump" ID's.</summary>
   
@@ -400,7 +408,7 @@
 **- Experimental (6-Star) ID: 1883785329**
 </details>
 
-## .44 Magnus Revolver
+### .44 Magnus Revolver
 <details>
   <summary>Click For "Magnus" ID's.</summary>
   
@@ -420,7 +428,7 @@
 </details>
 
 
-## Möller PP Pistol
+### Möller PP Pistol
 <details>
   <summary>Click For "Möller" ID's.</summary>
   
@@ -443,7 +451,7 @@
 
 
 
-## Klaucke 17 Pistol
+### Klaucke 17 Pistol
 <details>
   <summary>Click For "Klaucke" ID's.</summary>
   
