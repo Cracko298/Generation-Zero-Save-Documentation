@@ -495,24 +495,61 @@
     <summary>Click For "Character #2 Offsets"</summary>
     
       
-**- Player Level Offset: **
+**- Player Level Offset: "0x874"**
       
-**- Skill Points Offset:**
+**- Skill Points Offset: "0x868**
 
-**- Gained EXP Offset: **
+**- Gained EXP Offset: "0x870"**
 
 
 </details>
   
-  ### Deployable Items
+  ### Character #3 (Slot #3)
   
   <details>
-    <summary>Click For "Deployable" ID's.</summary>
+    <summary>Click For "Character #3 Offsets"</summary>
     
-  ### Deployable Items - Item ID's
+      
+**- Player Level Offset: "0xD3C"**
+      
+**- Skill Points Offset: "0xD30**
+
+**- Gained EXP Offset: "0xD38"**
+
+
+</details>
   
-**- Field Radio ID: 2159829079**
+   ### Character #4 (Slot #4)
+  
+  <details>
+    <summary>Click For "Character #4 Offsets"</summary>
+    
+      
+**- Player Level Offset: "0x1204"**
+      
+**- Skill Points Offset: "0x11F8**
+
+**- Gained EXP Offset: "0x1200"**
+
 
 </details>
 
+  
+    ### Character #5 (Slot #5)
+  
+  <details>
+    <summary>Click For "Character #5 Offsets"</summary>
+    
+      
+**- Player Level Offset: "0x16CC"**
+      
+**- Skill Points Offset: "0x16C0**
+
+**- Gained EXP Offset: "0x16C8"**
+
+
+</details>
+  
+  
+  
 </details>
