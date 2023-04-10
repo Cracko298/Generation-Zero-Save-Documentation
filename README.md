@@ -475,33 +475,32 @@
 
 
 
-
-
-
-
-
 </details>
 
 
-## Item ID List:
+
+
+
+
+
+
+
+## Character Offsets
 <details>
-  <summary>*Normal Item ID's.</summary>
+  <summary>*List of Character Offsets.</summary>
   
-  ### First Aid Packs
+  ### Character #2 (Slot #2)
   
   <details>
-    <summary>Click For "First AID Pack" ID's.</summary>
-    
-  ### First AID Pack - Item ID's
+    <summary>Click For "Character #2 Offsets"</summary>
       
-**- "Simple" First Aid Pack: 2050144797**
+**- Player Level Offset: **
       
-**- "Standard" First Aid Pack: 154430305**
-      
-**- "Advanced" First Aid Pack: 4135535880**
+**- Skill Points Offset:**
 
-**- Adrenaline Shot: 3938124543**
-      
+**- Gained EXP Offset: **
+
+
 </details>
   
   ### Deployable Items
