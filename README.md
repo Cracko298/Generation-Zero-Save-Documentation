@@ -12,6 +12,20 @@
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 - I will refer to the [Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90) as the [Pvg 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90).
 
+# WARNING:
+## Other Save Slots (Not Including Save-Slot #1).
+- **This Guide only works for Save-Slot #1**
+- **You are able to follow a similar guide, with Player-Level, EXP, and Skill Points.
+- **You'll need to Look at the [Character Offset List]() and Might need to do some Math.
+
+
+
+
+
+
+
+
+
 
 # Editing Player Level:
 <details>
