@@ -536,9 +536,8 @@
 
    ### Character #5 (Slot #5)
 
-  <details>
-    
-    <summary>Click For "Character #5 Offsets"</summary>
+  <details> 
+   <summary>Click For "Character #5 Offsets"</summary>
     
       
 **- Player Level Offset: "0x16CC"**
