@@ -481,3 +481,38 @@
 
 
 </details>
+
+
+## Item ID List:
+<details>
+  <summary>*Normal Item ID's.</summary>
+  
+  ### First Aid Packs
+  
+  <details>
+    <summary>Click For "First AID Pack" ID's.</summary>
+    
+  ### First AID Pack - Item ID's
+      
+**- "Simple" First Aid Pack: 2050144797**
+      
+**- "Standard" First Aid Pack: 154430305**
+      
+**- "Advanced" First Aid Pack: 4135535880**
+
+**- Adrenaline Shot: 3938124543**
+      
+</details>
+  
+  ### Deployable Items
+  
+  <details>
+    <summary>Click For "Deployable" ID's.</summary>
+    
+  ### Deployable Items - Item ID's
+  
+**- Field Radio ID: 2159829079**
+
+</details>
+
+</details>
