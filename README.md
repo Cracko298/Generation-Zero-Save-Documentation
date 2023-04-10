@@ -1,5 +1,3 @@
-# Generation-Zero-Save-Editing
-
 # Starter Content
 
 ## Prerequists:
