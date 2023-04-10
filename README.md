@@ -534,7 +534,7 @@
 
 </details>
 
-    ### Character #5 (Slot #5)
+   ### Character #5 (Slot #5)
 
   <details>
     
