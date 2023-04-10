@@ -499,7 +499,7 @@
       
 **- Player Level Offset: "0x874"**
       
-**- Skill Points Offset: "0x868**
+**- Skill Points Offset: "0x868"**
 
 **- Gained EXP Offset: "0x870"**
 
@@ -516,7 +516,7 @@
       
 **- Player Level Offset: "0xD3C"**
       
-**- Skill Points Offset: "0xD30**
+**- Skill Points Offset: "0xD30"**
 
 **- Gained EXP Offset: "0xD38"**
 
@@ -533,7 +533,7 @@
       
 **- Player Level Offset: "0x1204"**
       
-**- Skill Points Offset: "0x11F8**
+**- Skill Points Offset: "0x11F8"**
 
 **- Gained EXP Offset: "0x1200"**
 
@@ -549,7 +549,7 @@
  
 **- Player Level Offset: "0x16CC"**
       
-**- Skill Points Offset: "0x16C0**
+**- Skill Points Offset: "0x16C0"**
 
 **- Gained EXP Offset: "0x16C8"**
 
