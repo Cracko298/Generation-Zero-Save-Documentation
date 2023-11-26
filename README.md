@@ -12,6 +12,9 @@
 - I am not responsible for Corrupted Save-Files, or other Unofficial Edits to Modify your Game.
 - I will refer to the [Pansarvärnsgevär 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90) as the [Pvg 90](https://generation-zero.fandom.com/wiki/Pansarv%C3%A4rnsgev%C3%A4r_90).
 
+## Explanation of Character Offsets:
+- **You can find these [Here](https://github.com/Cracko298/Generation-Zero-Save-Documentation/issues/1#issuecomment-1501200383).**
+
 ## WARNING:
 ### Other Save Slots (Not Including Save-Slot #1).
 - **This Guide only works for Save-Slot #1**
